@@ -1,2 +1,2 @@
 # AppTemplate
-Just a random mobile app template in html/css
+a quick brown fox jumped over the lazy doge
